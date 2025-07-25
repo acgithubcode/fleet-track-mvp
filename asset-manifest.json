@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fleet-track-mvp/static/css/main.e6c13ad2.css",
+    "main.js": "/fleet-track-mvp/static/js/main.aae9a1eb.js",
+    "static/js/453.2363e985.chunk.js": "/fleet-track-mvp/static/js/453.2363e985.chunk.js",
+    "index.html": "/fleet-track-mvp/index.html",
+    "main.e6c13ad2.css.map": "/fleet-track-mvp/static/css/main.e6c13ad2.css.map",
+    "main.aae9a1eb.js.map": "/fleet-track-mvp/static/js/main.aae9a1eb.js.map",
+    "453.2363e985.chunk.js.map": "/fleet-track-mvp/static/js/453.2363e985.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aae9a1eb.js"
+  ]
+}
